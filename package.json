@@ -1,0 +1,20 @@
+{
+  "name": "invokedb-examples-aggrid",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "prettier": {
+    "printWidth": 80,
+    "tabWidth": 2,
+    "singleQuote": true,
+    "semi": true,
+    "arrowParens": "avoid",
+    "trailingComma": "none"
+  }
+}
